@@ -34,5 +34,14 @@
       <description>November 2022: Created a Streamlit app that compares planetary data. Selectable planets: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Selectable metrics: Orbit Distance (km), Equatorial Radius (km), Volume (km³), Mass (kg), Density (g/cm³), Escape Velocity (km/h), Rotation Period (Earth Days), Orbit Period (Earth Years), Mean Orbit Velocity (km/h), Orbit Eccentricity, Orbit Inclination (degrees), Equatorial Inclination (degrees), Mean Temperature (°C), Atmospheric Constituents, Moons, Rings. Source: NASA ► Tools used: Link to GitHub Repository</description>
     </item>
     
+    <item>
+      <title>Project 4: Bundesliga Probability App</title>
+      <link>https://greengamma.github.io/portfolio/projects/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengamma.github.io/portfolio/projects/project-4/</guid>
+      <description>December 2022: An app providing win, draw, loss probabilites. Information based on all matches played by the selected teams in the past. Uses an API to get the data. Provides the number of matches that the probabilities a based on. ► Tools used: ▸ Link to GitHub repository</description>
+    </item>
+    
   </channel>
 </rss>
